@@ -34,6 +34,13 @@ The final dashboard provides an interactive view of the main KPIs and business p
 
 ![Retail Sales Dashboard](DASHBOARD.jpeg)
 
+
+## Insights & Recommendations
+
+After building the dashboard, I continued the analysis to understand the reasons behind the results and turn the findings into practical recommendations.
+
+📄 [View Executive Insights & Recommendations](Executive-Insights-and-Recommendations.pdf)
+
 ## Key KPIs
 
 - Total Sales: **$2.30M**
