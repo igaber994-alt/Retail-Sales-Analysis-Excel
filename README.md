@@ -32,6 +32,8 @@ The analysis focused on questions such as:
 
 The final dashboard provides an interactive view of the main KPIs and business performance using filters for year, region, customer segment, product category, and shipping mode.
 
+![Retail Sales Dashboard](DASHBOARD.jpeg)
+
 ## Key KPIs
 
 - Total Sales: **$2.30M**
