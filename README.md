@@ -64,3 +64,7 @@ I thought I had finished the analysis, but every time I tried to make a recommen
 
 That helped me understand that finishing a dashboard doesn't necessarily mean finishing the analysis.
 
+## Project Walkthrough
+
+🎥 [Watch the Project Walkthrough](Project-Walkthrough.mp4)
+
